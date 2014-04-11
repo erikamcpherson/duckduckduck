@@ -3,5 +3,5 @@
 ###This is smaller
 
 
-*This is my list item one
-*this is my list item two
+* This is my list item one
+* This is my list item two
